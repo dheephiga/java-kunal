@@ -1,6 +1,6 @@
 package lec03;
 
-public class return-type{
+public class returntype{
 	public static void main(String args[]){
 		String msg = greeting();
 		System.out.println(msg);
