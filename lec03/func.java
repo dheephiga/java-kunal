@@ -18,6 +18,6 @@ public class func{
 
 		int sum = n1+n2;
 
-		System.out.println("Sum of " + n1 + " + " + n2 + " Sis " + sum);
+		System.out.println("Sum of " + n1 + " + " + n2 + " is " + sum);
 	}
 }
