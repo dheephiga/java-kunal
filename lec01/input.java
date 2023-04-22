@@ -8,5 +8,11 @@ public class input{
 		System.out.print("Enter input as some number: ");
 		int rollno = input.nextInt();
 		System.out.println("You're Input is " + rollno);
+
+		System.out.print("Enter some string: ");
+		String word = input.next();
+		System.out.println("Entered string is "+word);
+
+		
 	}
 }
